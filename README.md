@@ -198,12 +198,39 @@ Philosophy: "Infrastructure should be boring. Deployments should be uneventful."
 
 ---
 
+## ⚔️ The Machiavellian Engineer
+
 <div align="center">
 
+```
+"It is better to be feared than loved, if you cannot be both
+  — but it is best to be the one who automates the fear away."
+```
+
+</div>
+
+> Machiavelli taught that a wise ruler doesn't rely on luck — he engineers his own fortune.
+> A wise DevOps engineer doesn't rely on manual processes — he pipelines his own destiny.
+
+| Machiavelli Said | The Engineer Does |
+|:---|:---|
+| *"Never rely on luck — prepare your state for any storm"* | Build HA/DR systems. Every region fails. Plan for it. |
+| *"The ends justify the means"* | Downtime justifies the 3am automation sprint. Ship it. |
+| *"A prince must be a lion and a fox"* | Be aggressive with automation. Be clever with cost cuts. |
+| *"It is better to act and repent than not act and regret"* | Deploy fast. Rollback faster. That's what GitOps is for. |
+| *"The first method for estimating intelligence is to look at the men around him"* | Your infra reflects your team. Standardize or suffer. |
+
+<div align="center">
+
+<br/>
+
+*"Infrastructure should be boring. Deployments should be uneventful.*
+*Because the Prince who controls the pipeline — controls the kingdom."*
+
+**— Ashif Makandar**
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
-
-**"Infrastructure should be boring. Deployments should be uneventful."**
-
-*— Ashif Makandar*
 
 </div>
