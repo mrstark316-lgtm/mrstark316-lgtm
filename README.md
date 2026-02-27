@@ -20,23 +20,23 @@
 ## 🧠 About Me
 
 ```yaml
-name: Ashif Makandar
-role: DevOps Engineer & Cloud Architect
-experience: 1+ years
-location: "☁️ Somewhere between a Kubernetes node and a Terraform plan"
+Name: Ashif Makandar
+Role: DevOps Engineer & Cloud Architect
+Experience: 1+ years
+Location: "☁️ Somewhere between a Kubernetes node and a Terraform plan"
 
-focus:
+Focus:
   - Multi-region cloud architectures on AWS & Azure
   - Infrastructure standardization via Terraform & IaC
   - DevSecOps: policy-as-code + security scanning in CI/CD
   - Platform engineering & GitOps patterns
 
-currently_building:
+Currently_building:
   - Enterprise-grade Terraform module libraries for AWS landing zones
   - Internal Developer Portals using Backstage
   - Cost optimization frameworks for Kubernetes workloads
 
-philosophy: "Infrastructure should be boring. Deployments should be uneventful."
+Philosophy: "Infrastructure should be boring. Deployments should be uneventful."
 ```
 
 ---
